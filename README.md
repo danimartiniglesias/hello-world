@@ -1,2 +1,2 @@
 # hello-world
-Firs repository
+Primeras pruebas con GitHub
